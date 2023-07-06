@@ -1,0 +1,15 @@
+C:\Users\asusr\Desktop\allseminarC\task39\bin\Debug\net7.0\seminar5.exe
+C:\Users\asusr\Desktop\allseminarC\task39\bin\Debug\net7.0\seminar5.deps.json
+C:\Users\asusr\Desktop\allseminarC\task39\bin\Debug\net7.0\seminar5.runtimeconfig.json
+C:\Users\asusr\Desktop\allseminarC\task39\bin\Debug\net7.0\seminar5.dll
+C:\Users\asusr\Desktop\allseminarC\task39\bin\Debug\net7.0\seminar5.pdb
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.csproj.AssemblyReference.cache
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.AssemblyInfoInputs.cache
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.AssemblyInfo.cs
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.csproj.CoreCompileInputs.cache
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.dll
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\refint\seminar5.dll
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.pdb
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\seminar5.genruntimeconfig.cache
+C:\Users\asusr\Desktop\allseminarC\task39\obj\Debug\net7.0\ref\seminar5.dll

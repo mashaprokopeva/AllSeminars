@@ -1,0 +1,5 @@
+C:\Users\asusr\Desktop\семинар 4\zadan33\obj\Debug\net7.0\zadan33.csproj.AssemblyReference.cache
+C:\Users\asusr\Desktop\семинар 4\zadan33\obj\Debug\net7.0\zadan33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusr\Desktop\семинар 4\zadan33\obj\Debug\net7.0\zadan33.AssemblyInfoInputs.cache
+C:\Users\asusr\Desktop\семинар 4\zadan33\obj\Debug\net7.0\zadan33.AssemblyInfo.cs
+C:\Users\asusr\Desktop\семинар 4\zadan33\obj\Debug\net7.0\zadan33.csproj.CoreCompileInputs.cache
