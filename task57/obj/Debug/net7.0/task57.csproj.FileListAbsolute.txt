@@ -1,0 +1,5 @@
+C:\Users\asusr\Desktop\allseminarC\task57\obj\Debug\net7.0\task57.csproj.AssemblyReference.cache
+C:\Users\asusr\Desktop\allseminarC\task57\obj\Debug\net7.0\task57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusr\Desktop\allseminarC\task57\obj\Debug\net7.0\task57.AssemblyInfoInputs.cache
+C:\Users\asusr\Desktop\allseminarC\task57\obj\Debug\net7.0\task57.AssemblyInfo.cs
+C:\Users\asusr\Desktop\allseminarC\task57\obj\Debug\net7.0\task57.csproj.CoreCompileInputs.cache
