@@ -18,11 +18,13 @@ FillArrayRandomNumbers(numbers);
 for (int j = 0; j < numbers.GetLength(1); j++)
 {
     double avarage = 0;
+    
     for (int i = 0; i < numbers.GetLength(0); i++)
     {
         avarage = (avarage + numbers[i, j]);
     }
     avarage = avarage / n;
+    avarage = Math.Round(avarage, 2);
     Console.Write(avarage + "; ");
 }
 Console.WriteLine();

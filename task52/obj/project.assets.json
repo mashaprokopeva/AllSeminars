@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\asusr\\.nuget\\packages\\": {}
+    "C:\\Users\\norki\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asusr\\Desktop\\allseminarC\\task52\\task52.csproj",
+      "projectUniqueName": "C:\\Users\\norki\\Desktop\\AllSeminars\\task52\\task52.csproj",
       "projectName": "task52",
-      "projectPath": "C:\\Users\\asusr\\Desktop\\allseminarC\\task52\\task52.csproj",
-      "packagesPath": "C:\\Users\\asusr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asusr\\Desktop\\allseminarC\\task52\\obj\\",
+      "projectPath": "C:\\Users\\norki\\Desktop\\AllSeminars\\task52\\task52.csproj",
+      "packagesPath": "C:\\Users\\norki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\norki\\Desktop\\AllSeminars\\task52\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asusr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\norki\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
